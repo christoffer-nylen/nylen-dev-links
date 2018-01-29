@@ -3,7 +3,7 @@ A list of my favorite software development links.
 
 **Table of Contents:**
 
-- [Software verification](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#software-verification) - Ensuring quality and safety.
+- [Software verification](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#software-verification) - Quality and safety.
 - [Version control](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#version-control) - Git happens.
 - [Machine learning](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#machine-learning) - Buzz.
 - [Visualization](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#visualization) - For fun mostly.
