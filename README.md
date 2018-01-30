@@ -57,7 +57,7 @@ Rather than leaving undecided stuff out, the following rating system is used:
 
 [Open lecture by James Bach on software testing](https://www.youtube.com/watch?v=ILkT_HV9DVU) - Rating: 8/10
 
-> Your job as a tester is not to just numbly copy a requirement, put the word “verify” in front of it and call it a test case; it’s not simple like that! Instead you should question it and model it in you mind! Imagining it in different ways it might interact with other things. And in so doing; you’re expanding the world beyond what is written down explicitly for you. That’s a BIG part of your job as a tester. To make the world clear.
+> Your job as a tester is not to just numbly copy a requirement, put the word “verify” in front of it and call it a test case; it’s not simple like that! Instead you should question it and model it in you mind! Imagining it in different ways it might interact with other things. And in so doing; you’re expanding the world beyond what is written down explicitly for you. That’s a big part of your job as a tester. To make the world clear.
 
 [Keep calm and break stuff: Software testing for beginners](https://www.emilyobyrne.com/blog/software-testing-for-beginners) - Rating: 7/10
 
