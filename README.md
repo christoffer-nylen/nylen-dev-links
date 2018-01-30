@@ -1,5 +1,5 @@
 # software-development-list
-A list of my favorite links.
+My favorite links.
 
 **Table of Contents:**
 
