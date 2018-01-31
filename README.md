@@ -268,6 +268,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [Demystifying Floating Point Precision](https://www.reddit.com/r/programming/comments/7eoe56/demystifying_floating_point_precision/)
 
+[Meltdown And Spectre - What we know so far](https://www.youtube.com/watch?v=IPhvL3A-e6E)
+
 ### Reverse engineering
 
 [How Metal Gear Solid V renders a frame](https://www.reddit.com/r/programming/comments/7kewco/how_metal_gear_solid_v_renders_a_frame/) - Rating: 7/10
@@ -330,6 +332,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 ![alt text](https://i2.wp.com/zwischenzugs.com/wp-content/uploads/2016/03/software-development-methods-explained-with-cars-toggl-infographic-02.jpg?resize=980%2C4298&ssl=1)
 
+[GOTO 2015 - Space Shuttle](https://www.youtube.com/watch?v=AyrRoKN_kvg)
+
 ### Maintenance
 
 [Short-term vs long-term perspective in software development](https://www.reddit.com/r/programming/comments/6v2caj/shortterm_vs_longterm_perspective_in_software/)
@@ -339,6 +343,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 ![alt text](https://cdn-images-1.medium.com/max/800/1*mOkmsSxjdGpDd1EHQqdB8Q.jpeg "Technical debt everywhere")
 
 [Developer-driven development](https://www.reddit.com/r/programming/comments/6zem4c/developerdriven_development/)
+
+[The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 
 ### Career
 
