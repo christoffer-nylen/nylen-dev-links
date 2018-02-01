@@ -12,9 +12,9 @@ My favorite software development links.
 
 Rather than leaving undecided stuff out, the following rating system is used:
 
-- **10/10: Awesome!** - Significant daily impact on software development.
+- **10/10: Awesome!** - Significant daily impact.
 
-- **9/10: Very Good!** - Daily impact on software development.
+- **9/10: Very Good!** - Daily impact.
 
 - **8/10: Good** - Useful in some situation.
 
