@@ -122,6 +122,10 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 > Mutation Testing is a fault–based software testing technique that has been widely studied for over three decades. The literature on Mutation Testing has contributed a set of approaches, tools, developments and empirical results. This paper provides a comprehensive analysis and survey of Mutation Testing. The paper also presents the results of several development trend analyses. These analyses provide evidence that Mutation Testing techniques and tools are reaching a state of maturity and applicability, while the topic of Mutation Testing itself is the subject of increasing interest.
 
+[Subsumption of Condition Coverage Techniques by Mutation Testing](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.25.7805) - Rating 8/10
+
+> Condition coverage testing is a family of testing techniques that are based on the logical flow of control through a program. The condition coverage techniques include a variety of requirements, including that each statement in the program is executed and that each branch is executed. Mutation testing is a fault-based testing technique that is widely considered to be very powerful, and that imposes requirements on testing that include, and go beyond, many other techniques. In this paper, we consider the six common condition coverage techniques, and formally show that these techniques are subsumed by mutation testing, in the sense that if mutation testing is satisfied, then the condition coverage techniques are also satisfied.
+
 [Mutation testing - Clean coder blog](https://www.reddit.com/r/programming/comments/4nlstd/mutation_testing_clean_coder_blog/) - Rating: 8/10
 
 > As hard-nosed as I am about TDD as a necessary discipline; if I saw a team using mutation testing to guarantee the semantic stability of a test-after suite; I would smile, and nod, and consider them to be highly professional. (I would also suggest that they work test-first in order to streamline their effort.)
