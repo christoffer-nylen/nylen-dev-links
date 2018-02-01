@@ -126,6 +126,22 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 > Condition coverage testing is a family of testing techniques that are based on the logical flow of control through a program. The condition coverage techniques include a variety of requirements, including that each statement in the program is executed and that each branch is executed. Mutation testing is a fault-based testing technique that is widely considered to be very powerful, and that imposes requirements on testing that include, and go beyond, many other techniques. In this paper, we consider the six common condition coverage techniques, and formally show that these techniques are subsumed by mutation testing, in the sense that if mutation testing is satisfied, then the condition coverage techniques are also satisfied.
 
+[An Empirical Evaluation of Mutation Testing for Improving the Test Quality of Safety-Critical Software](http://ieeexplore.ieee.org/abstract/document/6298894/) - Rating: 8/10
+
+> In this study, we provide an empirical evaluation of the application of mutation testing to airborne software systems which have already satisfied the coverage requirements for certification. Specifically, we apply mutation testing to safety-critical software developed using high-integrity subsets of C and Ada, identify the most effective mutant types, and analyze the root causes of failures in test cases. Our findings show how mutation testing could be effective where traditional structural coverage analysis and manual peer review have failed. They also show that several testing issues have origins beyond the test activity, and this suggests improvements to the requirements definition and coding process. Our study also examines the relationship between program characteristics and mutation survival and considers how program size can provide a means for targeting test areas most likely to have dormant faults.
+
+> Subsets may be imposed through restrictions in coding standards or through industry best practice (e.g., MISRA C). This again reduces the legal substitutions which can be made during mutation testing.
+
+> In some instances, a simple error in the definition of the test case has rendered the test ineffective against the majority of mutants. Given that these test-case sets met the coverage criteria, this gives us cause to question the effectiveness of the test coverage objectives (i.e., the objectives that need to be achieved for certification purposes).
+
+> The general consensus from both sessions was that the improvements identified using mutation testing provided a level of assurance beyond that offered by manual review. Not only were unsatisfactory deficiencies identified using mutation testing, but the findings were consistently repeatable.
+
+> The group of engineers indicated that the potential to replace manual test-case review with mutation testing offered a real benefit given sufficient evidence to support its viability.
+
+> There was a clear correlation between the test-case sets which failed to achieve a mutation adequacy score of 100 percent and the cyclomatic complexity of the SUT. In most cases, the code items considered were not large, and so this did not necessarily mean higher overheads.
+
+> There is insufficient data at present to suggest that mutation testing could replace manual review, but it does provide evidence to complement a review and to understand reviewer capability.
+
 [Mutation testing - Clean coder blog](https://www.reddit.com/r/programming/comments/4nlstd/mutation_testing_clean_coder_blog/) - Rating: 8/10
 
 > As hard-nosed as I am about TDD as a necessary discipline; if I saw a team using mutation testing to guarantee the semantic stability of a test-after suite; I would smile, and nod, and consider them to be highly professional. (I would also suggest that they work test-first in order to streamline their effort.)
