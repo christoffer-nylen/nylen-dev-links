@@ -228,7 +228,7 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 ## Programming
 
-### General
+### Languages
 
 [Why is Rust difficult?](https://www.reddit.com/r/programming/comments/7s36oi/why_is_rust_difficult/) - Rating: 8/10
 
@@ -257,6 +257,12 @@ There are many kinds of code coverage criteria. The link explains many of them i
 [Strongly Typed Languages Reduce Bugs by 15%](https://www.reddit.com/r/programming/comments/710yaq/strongly_typed_languages_reduce_bugs_by_15/)
 
 [Static vs. Dynamic Languages: A Literature Review](https://www.reddit.com/r/programming/comments/6zmgn7/static_vs_dynamic_languages_a_literature_review/)
+
+### General
+
+[Blockchain - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8) - Rating 8/10
+
+> This is a very basic visual introduction to the concepts behind a blockchain. We introduce the idea of an immutable ledger using an interactive web demo.
 
 ### Embedded
 
