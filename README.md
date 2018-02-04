@@ -172,6 +172,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 > American fuzzy lop is a security-oriented fuzzer that employs a novel type of compile-time instrumentation and genetic algorithms to automatically discover clean, interesting test cases that trigger new internal states in the targeted binary. This substantially improves the functional coverage for the fuzzed code. The compact synthesized corpora produced by the tool are also useful for seeding other, more labor- or resource-intensive testing regimes down the road.
 
+[OSS-Fuzz - Continuous Fuzzing for Open Source Software](https://github.com/google/oss-fuzz)
+
 ## Version control
 
 [Git happens](https://www.youtube.com/watch?v=Dv8I_kfrFWw) - Rating: 8/10
