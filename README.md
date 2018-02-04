@@ -45,12 +45,6 @@ Rather than leaving undecided stuff out, the following rating system is used:
 
 > The problem is everyone always reduces tests to one angle, they have an impact on a lot of aspects.
 
-[How Rust is tested](https://www.reddit.com/r/programming/comments/6mftj9/how_rust_is_tested/) - Rating: 7/10
-
-> This document then, is a catalog of all the ways we test Rust. I hope it provides insight into what it takes to deliver a production-quality programming language, a hint at the wide variety of techniques employed in software validation, and that it reinforces your confidence in Rust’s reliability.
-
-[How SQLite Is Tested](https://www.sqlite.org/testing.html)
-
 [Principles of Automated Testing](https://www.reddit.com/r/programming/comments/6nh362/principles_of_automated_testing/)
 
 ### Robustness testing
@@ -58,6 +52,12 @@ Rather than leaving undecided stuff out, the following rating system is used:
 [Open lecture by James Bach on software testing](https://www.youtube.com/watch?v=ILkT_HV9DVU) - Rating: 8/10
 
 > Your job as a tester is not to just numbly copy a requirement, put the word “verify” in front of it and call it a test case; it’s not simple like that! Instead you should question it and model it in you mind! Imagining it in different ways it might interact with other things. And in so doing; you’re expanding the world beyond what is written down explicitly for you. That’s a big part of your job as a tester. To make the world clear.
+
+[How SQLite Is Tested](https://www.sqlite.org/testing.html) - Rating: 7/10
+
+[How Rust is tested](https://www.reddit.com/r/programming/comments/6mftj9/how_rust_is_tested/) - Rating: 7/10
+
+> This document then, is a catalog of all the ways we test Rust. I hope it provides insight into what it takes to deliver a production-quality programming language, a hint at the wide variety of techniques employed in software validation, and that it reinforces your confidence in Rust’s reliability.
 
 [Keep calm and break stuff: Software testing for beginners](https://www.emilyobyrne.com/blog/software-testing-for-beginners) - Rating: 7/10
 
