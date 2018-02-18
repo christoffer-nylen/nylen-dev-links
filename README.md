@@ -396,8 +396,22 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [What new software development managers should know](https://www.reddit.com/r/programming/comments/5n3a3y/what_new_software_development_managers_should_know/)
 
-### Teaching
+### Teaching & Learning
 
 [Learn touch typing](https://www.keybr.com) - Rating: 10/10
+
+[How developers stop learning: Rise of the expert beginner](https://www.reddit.com/r/programming/comments/44e7hl/how_developers_stop_learning_rise_of_the_expert/) - Rating: 8/10
+
+> There’s nothing you can do to improve as long as you keep bowling like that. You’ve maxed out. If you want to get better, you’re going to have to learn to bowl properly. You need a different ball, a different style of throwing it, and you need to put your fingers in it like a big boy. And the worst part is that you’re going to get way worse before you get better, and it will be a good bit of time before you get back to and surpass your current average.
+
+> Anything outside their current comfort zone. The problem is that when you start learning something fundamentally new, then initially you end up being less productive than using the tools you know. This frustrates a lot of people and they end up giving up and going back to doing what they already know.
+>
+> Once you reach a local maximum, then you're at the top of your hill. If you want to climb a different hill, then you first have to climb off yours and then start climbing the new one.
+>
+> I think ego plays a large role here. Somebody who's been developing professionally for many years likes the feeling of being an expert. This mindset tends to create aversion towards things that require becoming a beginner again.
+>
+> A great example of this is how difficult a lot of people find learning functional programming. It's not inherently difficult to learn, but it's very different from the imperative style. When you move between the languages in the same family, it's very easy to transfer your experience from one language to another. However, when you start learning a new paradigm, you have to internalize new patterns and approaches to solving problems. All of a sudden, you're a beginner again. You know how to solve a problem with your current toolset, but you're struggling with the tool you're learning.
+>
+> Learning to enjoy being a beginner is the most valuable skill for a programmer in my opinion.
 
 [How to write a research paper](https://youtu.be/S47RIVkr978)
