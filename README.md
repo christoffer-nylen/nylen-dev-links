@@ -395,3 +395,7 @@ There are many kinds of code coverage criteria. The link explains many of them i
 [The eight levels of programmers](https://www.reddit.com/r/java/comments/12kcid/the_eight_levels_of_programmers/)
 
 [What new software development managers should know](https://www.reddit.com/r/programming/comments/5n3a3y/what_new_software_development_managers_should_know/)
+
+### Teaching
+
+[How to write a research paper](https://youtu.be/S47RIVkr978)
