@@ -302,6 +302,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [XRay in LLVM: Function Call Tracing and Analysis](https://www.youtube.com/watch?v=jyL-__zOGcU)
 
+[Real-time linux on embedded multicore processors](https://www.youtube.com/watch?v=Q8vCi3ns0bs)
+
 ### Reverse engineering
 
 [How Metal Gear Solid V renders a frame](https://www.reddit.com/r/programming/comments/7kewco/how_metal_gear_solid_v_renders_a_frame/) - Rating: 7/10
