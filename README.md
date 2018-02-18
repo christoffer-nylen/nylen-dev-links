@@ -108,6 +108,8 @@ Rather than leaving undecided stuff out, the following rating system is used:
 
 [Why you should really care about C/C++ static analysis](https://www.reddit.com/r/programming/comments/6luqe9/why_you_should_really_care_about_cc_static/)
 
+[Curiously recurring C++ bugs at facebook](https://www.youtube.com/watch?v=lkgszkPnV8g&feature=youtu.be)
+
 ### Code coverage
 
 [Advanced coverage criteria](https://www.st.cs.uni-saarland.de/edu/testingdebugging10/slides/04-AdvancedCoverageCriteria.pdf) - Rating 8/10
@@ -298,6 +300,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [Meltdown And Spectre - What we know so far](https://www.youtube.com/watch?v=IPhvL3A-e6E)
 
+[XRay in LLVM: Function Call Tracing and Analysis](https://www.youtube.com/watch?v=jyL-__zOGcU)
+
 ### Reverse engineering
 
 [How Metal Gear Solid V renders a frame](https://www.reddit.com/r/programming/comments/7kewco/how_metal_gear_solid_v_renders_a_frame/) - Rating: 7/10
@@ -361,6 +365,12 @@ There are many kinds of code coverage criteria. The link explains many of them i
 ![alt text](https://i2.wp.com/zwischenzugs.com/wp-content/uploads/2016/03/software-development-methods-explained-with-cars-toggl-infographic-02.jpg?resize=980%2C4298&ssl=1)
 
 [GOTO 2015 - Space Shuttle](https://www.youtube.com/watch?v=AyrRoKN_kvg)
+
+[Building successful teams with evidence-based innovation and design](https://www.youtube.com/watch?v=J3C6yzYuVC0)
+
+[Google’s five keys to a successful team](https://www.youtube.com/watch?v=KZlSq_Hf08M)
+
+[How to take great engineers & make them great technical leaders](https://www.youtube.com/watch?v=RtMmxqkPVug&feature=youtu.be)
 
 ### Maintenance
 
