@@ -144,6 +144,16 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 > There is insufficient data at present to suggest that mutation testing could replace manual review, but it does provide evidence to complement a review and to understand reviewer capability.
 
+[The impact of equivalent mutants](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.152.2314) - Rating: 8/10
+
+> The impact of a mutant was defined as the different program behaviour between the original program and the mutant and it was measured through the code coverage in their experiment. The empirical results suggested that there was a strong correlation between mutant ‘killability’ and its impact on execution, which indicates that if a mutant has higher impact, it is less likely to be equivalent.
+
+> The hypothesis implies that when faced with thousands of surviving mutations, one should focus on those mutations with the highest impact—as one would run little risk to spend time on equivalent mutations, and as one may also obtain particularly valuable mutations, as discussed earlier.
+
+> 98% of the killed mutations had an impact on the coverage, while only 27% of the not killed mutations had an impact.
+
+> For the 20 not killed mutants with the highest impact, we found 18 non-equivalent mutants and 2 equivalent. The rate of 90% non-equivalent mutants is higher than the rate of 50% that we found in our study of randomly chosen mutations.
+
 [Mutation testing - Clean coder blog](https://www.reddit.com/r/programming/comments/4nlstd/mutation_testing_clean_coder_blog/) - Rating: 8/10
 
 > As hard-nosed as I am about TDD as a necessary discipline; if I saw a team using mutation testing to guarantee the semantic stability of a test-after suite; I would smile, and nod, and consider them to be highly professional. (I would also suggest that they work test-first in order to streamline their effort.)
