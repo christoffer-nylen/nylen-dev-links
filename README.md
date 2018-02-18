@@ -374,6 +374,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 
+[Building software capital: How to write the highest quality code and why](https://www.reddit.com/r/programming/comments/563w81/building_software_capital_a_conference_talk_to/?st=jdsrn6gg&sh=ad10f36b)
+
 ### Career
 
 [The impact github is having on your software career](http://reddit.com/r/programming/comments/5vif4n/the_impact_github_is_having_on_your_software/)
