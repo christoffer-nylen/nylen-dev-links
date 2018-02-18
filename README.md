@@ -424,6 +424,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [Learn touch typing](https://www.keybr.com) - Rating: 10/10
 
+> Web application that will help you teach touch typing. Touch typing is typing without using the sense of sight to find the keys. A person possessing touch typing skills will know their location on the keyboard through muscle memory. It can improve any individual's typing speed and accuracy dramatically.
+
 [How developers stop learning: Rise of the expert beginner](https://www.reddit.com/r/programming/comments/44e7hl/how_developers_stop_learning_rise_of_the_expert/) - Rating: 8/10
 
 > There’s nothing you can do to improve as long as you keep bowling like that. You’ve maxed out. If you want to get better, you’re going to have to learn to bowl properly. You need a different ball, a different style of throwing it, and you need to put your fingers in it like a big boy. And the worst part is that you’re going to get way worse before you get better, and it will be a good bit of time before you get back to and surpass your current average.
