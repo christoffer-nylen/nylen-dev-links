@@ -398,4 +398,6 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 ### Teaching
 
+[Learn touch typing](https://www.keybr.com) - Rating: 10/10
+
 [How to write a research paper](https://youtu.be/S47RIVkr978)
