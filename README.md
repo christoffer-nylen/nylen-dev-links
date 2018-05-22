@@ -47,6 +47,8 @@ Rather than leaving undecided stuff out, the following rating system is used:
 
 [Principles of Automated Testing](https://www.reddit.com/r/programming/comments/6nh362/principles_of_automated_testing/)
 
+[Expressenutvecklaren](https://utveckling.expressen.se/blogg/expressenutvecklaren/)
+
 ### Robustness testing
 
 [Open lecture by James Bach on software testing](https://www.youtube.com/watch?v=ILkT_HV9DVU) - Rating: 8/10
