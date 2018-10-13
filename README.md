@@ -49,6 +49,8 @@ Rather than leaving undecided stuff out, the following rating system is used:
 
 > There are a lot of fancy tools/terminology around this idea: "table-driven tests", "data-driven tests", etc.. But fundamentally, all you want is for your test cases to be concise and the expected/asserted behavior obvious-at-a-glance. This is something that normal code-refactoring techniques are capable of helping you achieve without any fancy tooling. Only after you've tried to do this manually, and found it lacking in some way, then is it worth starting to look at more specialized tools and techniques.
 
+> Example tests are those which walk your code through a single (or small number of) example, with careful asserts along the way to make sure it's doing exactly the right thing. Bulk tests, on the other hand, are those which shove large amounts of examples through your code, with a less thorough examination of how each case behaves: just making sure it's not crashing, with perhaps a rough check to make sure it's not completely misbehaving. Fuzz Testing or Property-based Testing are two common approaches within this category.
+
 [Expressenutvecklaren](https://utveckling.expressen.se/blogg/expressenutvecklaren/)
 
 ### Robustness testing
