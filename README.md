@@ -47,6 +47,8 @@ Rather than leaving undecided stuff out, the following rating system is used:
 
 [Principles of Automated Testing](https://www.reddit.com/r/programming/comments/6nh362/principles_of_automated_testing/)
 
+> There are a lot of fancy tools/terminology around this idea: "table-driven tests", "data-driven tests", etc.. But fundamentally, all you want is for your test cases to be concise and the expected/asserted behavior obvious-at-a-glance. This is something that normal code-refactoring techniques are capable of helping you achieve without any fancy tooling. Only after you've tried to do this manually, and found it lacking in some way, then is it worth starting to look at more specialized tools and techniques.
+
 [Expressenutvecklaren](https://utveckling.expressen.se/blogg/expressenutvecklaren/)
 
 ### Robustness testing
