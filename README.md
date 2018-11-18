@@ -284,6 +284,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [Static vs. Dynamic Languages: A Literature Review](https://www.reddit.com/r/programming/comments/6zmgn7/static_vs_dynamic_languages_a_literature_review/)
 
+[What does it take to be an expert at Python?](https://m.youtube.com/watch?v=7lmCu8wz8ro)
+
 ### General
 
 [Blockchain - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8) - Rating 8/10
