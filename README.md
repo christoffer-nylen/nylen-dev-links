@@ -198,6 +198,10 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [OSS-Fuzz - Continuous Fuzzing for Open Source Software](https://github.com/google/oss-fuzz)
 
+### Safety-critical
+
+[RTCA DO-178 CAST Papers](https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/cast/cast_papers/archive/)
+
 ## Version control
 
 [Git happens](https://www.youtube.com/watch?v=Dv8I_kfrFWw) - Rating: 8/10
