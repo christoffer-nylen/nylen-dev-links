@@ -266,6 +266,10 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 > One of the problems why I found Rust hard to learn was that it looked similar to other imperative languages on one side, but introduced a lot of novel concepts. It has all these cycles, conditions, functions, like everyone else. But it also has the ownerships and traits and lifetimes. These do have its reasons, but they feel alien at first ‒ but not alien enough to completely switch mental models. But that also make the language interesting.
 
+> What should a beginner in Rust expect:
+> * Becoming a better programmer, even in other languages (for example, ownership is just formalisation what most people do in languages with manual memory management anyway, but Rust makes sure it becomes second nature).
+> * ...
+
 [The complete guide to (external) domain specific languages](https://www.reddit.com/r/programming/comments/5v3ff5/the_complete_guide_to_external_domain_specific/)
 
 [A list of programming languages that are actively developed on GitHub.](https://www.reddit.com/r/programming/comments/5lpekw/a_list_of_programming_languages_that_are_actively/)
