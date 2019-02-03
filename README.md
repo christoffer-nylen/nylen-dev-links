@@ -240,6 +240,12 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 > Of particular note is the ‘cleaned-up data’ piece.  That’s huge and something that many companies forget (or ignore) when working with their data. Without proper data quality, data governance and data management processes / systems, you’ll most likely fall into the Garbage in / Garbage out trap that has befallen many data projects.
 
+[Machine learning and stable kernels](https://lwn.net/Articles/764647/)
+
+> He trained the neural network with commits from Linux 3.0 to 4.16, where the "true" value was whether the commit was in the stable tree.
+>
+> The output from the neural network has led to more than 3000 commits to various stable trees, many of which were critical fixes.
+
 [A super simple introduction to neural networks](http://www.mattzeunert.com/2016/12/09/neural-networks-super-simple-introduction.html)
 
 [A visual and interactive guide to the basics of neural networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
