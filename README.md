@@ -3,12 +3,12 @@ My favorite software development links.
 
 **Table of Contents:**
 
-- [Software verification](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#software-verification) - Quality and safety.
-- [Version control](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#version-control) - Git happens.
-- [Machine learning](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#machine-learning) - Buzz.
-- [Visualization](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#visualization) - For fun mostly.
-- [Programming](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#programming) - Coding is hard.
-- [Culture](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#culture) - Process problems.
+- [Software verification](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#software-verification)
+- [Version control](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#version-control)
+- [Machine learning](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#machine-learning)
+- [Visualization](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#visualization)
+- [Programming](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#programming)
+- [Culture](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#culture)
 
 Rather than leaving undecided stuff out, the following rating system is used:
 
