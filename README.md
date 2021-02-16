@@ -22,6 +22,10 @@ Rating:
 
 ## Software verification
 
+### General
+
+[I've curated 1,000 software testing news in 2020 and here are the best ones](https://www.reddit.com/r/QualityAssurance/comments/kxa6fq/ive_curated_1000_software_testing_news_in_2020/)
+
 ### Test driven development
 
 [TDD, where did it all go wrong? (1h version)](https://vimeo.com/68375232) - Rating: 10/10
