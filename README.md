@@ -1,4 +1,4 @@
-# software-development-list
+# awesome-software-development
 My favorite software development links.
 
 **Table of Contents:**
