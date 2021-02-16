@@ -26,6 +26,8 @@ Rating:
 
 [I've curated 1,000 software testing news in 2020 and here are the best ones](https://www.reddit.com/r/QualityAssurance/comments/kxa6fq/ive_curated_1000_software_testing_news_in_2020/)
 
+[Test smarter, not harder](https://www.reddit.com/r/programming/comments/imzawj/test_smarter_not_harder/)
+
 ### Test driven development
 
 [TDD, where did it all go wrong? (1h version)](https://vimeo.com/68375232) - Rating: 10/10
@@ -74,6 +76,10 @@ Rating:
 [The art of defensive programming](https://www.reddit.com/r/programming/comments/5k9p1w/the_art_of_defensive_programming/)
 
 [James Bach's blog](http://www.satisfice.com/blog/)
+
+### Integration testing
+
+[How Mojang runs end-to-end tests inside Minecraft](https://www.reddit.com/r/programming/comments/jsa6m1/how_mojang_runs_endtoend_tests_inside_minecraft/)
 
 ### Code review
 
@@ -127,6 +133,8 @@ Rating:
 > Coverage criteria serve two main purposes: To measure adequacy of existing test suites, and to guide generation of new test cases. Even though coverage is often used to measure the quality of an existing test suite, coverage is not a good measurement for this. Generally, coverage is only good at telling you which parts haven’t been covered.
 
 There are many kinds of code coverage criteria. The link explains many of them in a short and understandable way.
+
+[Vladimir Khorikov: 100% Test Coverage is an Artificial Metric](https://www.reddit.com/r/programming/comments/gicnwn/vladimir_khorikov_100_test_coverage_is_an/)
 
 ### Mutation testing
 
@@ -205,6 +213,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 ### Safety-critical
 
 [RTCA DO-178 CAST Papers](https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/cast/cast_papers/archive/)
+
+[We are the SpaceX software team, ask us anything!](https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/)
 
 ## Version control
 
@@ -310,6 +320,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 > This is a very basic visual introduction to the concepts behind a blockchain. We introduce the idea of an immutable ledger using an interactive web demo.
 
+[Write Libraries, Not Frameworks](https://www.reddit.com/r/programming/comments/ggclep/write_libraries_not_frameworks/)
+
 ### Embedded
 
 [D as a Better C](https://www.reddit.com/r/programming/comments/6viswu/d_as_a_better_c/) - Rating 8/10
@@ -359,6 +371,10 @@ There are many kinds of code coverage criteria. The link explains many of them i
 ![alt text](http://www.codersnotes.com/notes/disassembling-jak/screenshot.jpg#right#thumb "The massive world of Jak & Daxter")
 
 > It's a hell of a thing, when you think about it. To create your own programming language, from scratch, and then write the entire game engine in it. I don't know of any other games out there that do that.
+
+[Rendering of Rise of the Tomb Raider](https://www.reddit.com/r/programming/comments/agld4s/rendering_of_rise_of_the_tomb_raider/)
+
+[How the Age of Empires 2 AI thinks](https://www.reddit.com/r/programming/comments/afjnl3/how_the_age_of_empires_2_ai_thinks/)
 
 ### Building
 
@@ -429,6 +445,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 
 [Building software capital: How to write the highest quality code and why](https://www.reddit.com/r/programming/comments/563w81/building_software_capital_a_conference_talk_to/?st=jdsrn6gg&sh=ad10f36b)
+
+[Technical Debt is like Tetris](https://www.reddit.com/r/programming/comments/az5ruf/technical_debt_is_like_tetris/)
 
 ### Career
 
