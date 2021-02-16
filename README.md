@@ -10,7 +10,7 @@ My favorite software development links.
 - [Programming](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#programming)
 - [Culture](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#culture)
 
-Rather than leaving undecided stuff out, the following rating system is used:
+Rating:
 
 - **10/10: Awesome!** - Significant daily impact.
 
