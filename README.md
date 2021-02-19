@@ -1,4 +1,4 @@
-# awesome-software-development
+# nylen-dev-links
 My favorite software development links.
 
 **Table of Contents:**
