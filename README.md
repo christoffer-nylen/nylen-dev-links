@@ -57,6 +57,10 @@ Rating:
 
 > Example tests are those which walk your code through a single (or small number of) example, with careful asserts along the way to make sure it's doing exactly the right thing. Bulk tests, on the other hand, are those which shove large amounts of examples through your code, with a less thorough examination of how each case behaves: just making sure it's not crashing, with perhaps a rough check to make sure it's not completely misbehaving. Fuzz Testing or Property-based Testing are two common approaches within this category.
 
+[Pulling JPEGs out of thin air](https://lcamtuf.blogspot.com/2014/11/pulling-jpegs-out-of-thin-air.html)
+
+> The first image, hit after about six hours on an 8-core system, looks very unassuming: it's a blank grayscale image, 3 pixels wide and 784 pixels tall. But the moment it is discovered, the fuzzer starts using the image as a seed - rapidly producing a wide array of more interesting pics for every new execution path.
+
 [Expressenutvecklaren](https://utveckling.expressen.se/blogg/expressenutvecklaren/)
 
 ### Robustness testing
