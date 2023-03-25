@@ -253,6 +253,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [Git commit messages](https://www.reddit.com/r/programming/comments/6at5uc/git_commit_messages/)
 
+[Git Under the Hood](https://articles.foletta.org/post/git-under-the-hood/)
+
 ## Machine learning
 
 [You (probably) don't need machine learning](https://www.reddit.com/r/programming/comments/5lywfy/you_probably_dont_need_machine_learning/) - Rating: 7/10
@@ -440,6 +442,10 @@ There are many kinds of code coverage criteria. The link explains many of them i
 [Google’s five keys to a successful team](https://www.youtube.com/watch?v=KZlSq_Hf08M)
 
 [How to take great engineers & make them great technical leaders](https://www.youtube.com/watch?v=RtMmxqkPVug&feature=youtu.be)
+
+#### MVP
+
+[The Biggest Mistake I See Engineers Make - Zach Lloyd](https://thezbook.com/the-biggest-mistake-i-see-engineers-make)
 
 ### Maintenance
 
