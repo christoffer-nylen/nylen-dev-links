@@ -29,6 +29,8 @@ Rating:
 
 [Test smarter, not harder](https://www.reddit.com/r/programming/comments/imzawj/test_smarter_not_harder/)
 
+[How Incompetence and Bad Testing ruined 700+ lives](https://www.reddit.com/r/programming/comments/rbav6d/another_story_about_how_bad_programming_destroyed/)
+
 ### Test driven development
 
 [TDD, where did it all go wrong? (1h version)](https://vimeo.com/68375232) - Rating: 10/10
