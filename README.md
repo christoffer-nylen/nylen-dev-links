@@ -107,6 +107,8 @@ Rating:
 
 [Effective Code Reviews](https://www.reddit.com/r/programming/comments/6yw4fo/effective_code_reviews/)
 
+[The Secret Society of Code Reviewers at Microsoft](https://youtu.be/MLU8AwfIe8U)
+
 ### Coding rules
 
 [A comparison of industrial coding rules](http://www.adalog.fr/publicat/coding-rules.pdf) - Rating 8/10
@@ -442,8 +444,6 @@ There are many kinds of code coverage criteria. The link explains many of them i
 [Google’s five keys to a successful team](https://www.youtube.com/watch?v=KZlSq_Hf08M)
 
 [How to take great engineers & make them great technical leaders](https://www.youtube.com/watch?v=RtMmxqkPVug&feature=youtu.be)
-
-[The Secret Society of Code Reviewers at Microsoft](https://youtu.be/MLU8AwfIe8U)
 
 #### MVP
 
