@@ -9,6 +9,7 @@ My favorite software development links.
 - [Visualization](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#visualization)
 - [Programming](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#programming)
 - [Culture](https://github.com/christoffer-nylen/exploring-software-development/blob/master/README.md#culture)
+- [Teaching & Learning](https://github.com/christoffer-nylen/nylen-dev-links/blob/master/README.md#teaching--learning)
 
 Rating:
 
