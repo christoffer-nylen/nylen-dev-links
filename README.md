@@ -443,6 +443,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [How to take great engineers & make them great technical leaders](https://www.youtube.com/watch?v=RtMmxqkPVug&feature=youtu.be)
 
+[The Secret Society of Code Reviewers at Microsoft](https://youtu.be/MLU8AwfIe8U)
+
 #### MVP
 
 [The Biggest Mistake I See Engineers Make - Zach Lloyd](https://thezbook.com/the-biggest-mistake-i-see-engineers-make)
