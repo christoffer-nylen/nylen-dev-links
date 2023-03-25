@@ -377,6 +377,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [Real-time linux on embedded multicore processors](https://www.youtube.com/watch?v=Q8vCi3ns0bs)
 
+[IGN asked nearly 100 game developers to answer the question: "What is a thing in video games that seems simple but is actually extremely hard to make?"](https://www.reddit.com/r/gamedev/comments/p9wcar/ign_asked_nearly_100_game_developers_to_answer/)
+
 ### Reverse engineering
 
 [How Metal Gear Solid V renders a frame](https://www.reddit.com/r/programming/comments/7kewco/how_metal_gear_solid_v_renders_a_frame/) - Rating: 7/10
