@@ -334,6 +334,10 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [Quantum Break: AAA Gaming With Some D Code](https://www.youtube.com/watch?v=OLFBal4Qo_k) - Rating 7/10
 
+[How Crash Bandicoot Hacked The Original Playstation](https://youtu.be/izxXGuVL21o) - Rating 7/10
+
+> The CD takes about 1/3 of a second to move its head to any specific spot on the CD. It takes some time to actually load the data. It could load a megabyte in maybe six seconds or something. So you can't just go draw one frame and go get a new different megabyte off the disk because it's gonna take you eight seconds to get that different megabyte of the disk. Well, what are you gonna do, sit there do nothing for eight seconds? You can do that between levels. So when the level switches, that's why a typical game would go to a loading screen and they'd load that whole megabyte or whatever of the disk. The CD, it's just a further storage. It's bugger but it's slower. It's further away from being able to use it, but why can't you use it? It's there. On an early Playstation game, they have like one megabyte levels or two megabyte levels and CD is 640, that means that could fit 300 levels on the CD. Did they have 300 levels? No, that would take them like 10 years to make the game. So the CD's just mostly empty or they fill it all with music because music is kind of fat, or video, or something, but a lot of times, it's just empty. Games like Twisted Metal might only be 50 megs on the disk. And so every games' levels are gonna look like rougly a a megabyte, maybe a mebayte and a half of data. Now that was sufficient. Many many PlayStation games were made, but it was part of my theory that that didn't have to be so...
+
 [An Uncharted Tech Retrospective](https://www.youtube.com/watch?v=4ZFtP8LbUYc) - Rating 7/10
 
 > Naughty Dog programmer John "Cowboy" Bellomy stops by to talk about the tools of his trade after spending nearly a decade with Nathan Drake.
