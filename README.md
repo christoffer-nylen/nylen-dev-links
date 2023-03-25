@@ -113,6 +113,8 @@ Rating:
 
 [The Code Review Pyramid](https://www.reddit.com/r/programming/comments/tb7khd/the_code_review_pyramid/)
 
+[How to Review Code Well](https://denvaar.github.io/posts/how_to_review_code.html) [reddit link](https://www.reddit.com/r/programming/comments/pdr5ch/how_to_review_code_well/)
+
 ### Coding rules
 
 [A comparison of industrial coding rules](http://www.adalog.fr/publicat/coding-rules.pdf) - Rating 8/10
