@@ -109,6 +109,8 @@ Rating:
 
 [The Secret Society of Code Reviewers at Microsoft](https://youtu.be/MLU8AwfIe8U)
 
+[The Code Review Pyramid](https://www.reddit.com/r/programming/comments/tb7khd/the_code_review_pyramid/)
+
 ### Coding rules
 
 [A comparison of industrial coding rules](http://www.adalog.fr/publicat/coding-rules.pdf) - Rating 8/10
