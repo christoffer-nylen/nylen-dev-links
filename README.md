@@ -31,6 +31,8 @@ Rating:
 
 [How Incompetence and Bad Testing ruined 700+ lives](https://www.reddit.com/r/programming/comments/rbav6d/another_story_about_how_bad_programming_destroyed/)
 
+[Bad software sent the innocent to prison](https://www.reddit.com/r/programming/comments/mxkou6/bad_software_sent_the_innocent_to_prison/)
+
 ### Test driven development
 
 [TDD, where did it all go wrong? (1h version)](https://vimeo.com/68375232) - Rating: 10/10
@@ -65,6 +67,8 @@ Rating:
 > The first image, hit after about six hours on an 8-core system, looks very unassuming: it's a blank grayscale image, 3 pixels wide and 784 pixels tall. But the moment it is discovered, the fuzzer starts using the image as a seed - rapidly producing a wide array of more interesting pics for every new execution path.
 
 [Expressenutvecklaren](https://utveckling.expressen.se/blogg/expressenutvecklaren/)
+
+[Software Testing in the 2020's](https://www.reddit.com/r/programming/comments/npclst/software_testing_in_the_2020s/)
 
 ### Robustness testing
 
@@ -329,6 +333,10 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [What does it take to be an expert at Python?](https://m.youtube.com/watch?v=7lmCu8wz8ro)
 
+[A Firehose of Rust, for busy people who know some C++](https://www.reddit.com/r/programming/comments/npznsn/a_firehose_of_rust_for_busy_people_who_know_some_c/)
+
+[All C++20 core language features with examples](https://www.reddit.com/r/programming/comments/mljsvr/all_c20_core_language_features_with_examples/)
+
 ### General
 
 [Blockchain - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8) - Rating 8/10
@@ -338,6 +346,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 [Write Libraries, Not Frameworks](https://www.reddit.com/r/programming/comments/ggclep/write_libraries_not_frameworks/)
 
 [Reflections on 10,000 Hours of Programming](https://www.reddit.com/r/programming/comments/owii4b/reflections_on_10000_hours_of_programming/)
+
+[Clever vs Insightful Code](https://www.reddit.com/r/programming/comments/nu5ec4/clever_vs_insightful_code/)
 
 ### Embedded
 
@@ -484,6 +494,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 [Building software capital: How to write the highest quality code and why](https://www.reddit.com/r/programming/comments/563w81/building_software_capital_a_conference_talk_to/?st=jdsrn6gg&sh=ad10f36b)
 
 [Technical Debt is like Tetris](https://www.reddit.com/r/programming/comments/az5ruf/technical_debt_is_like_tetris/)
+
+[Why programmers don’t write documentation](https://www.reddit.com/r/programming/comments/n12j03/why_software_engineers_dont_write_documentation/)
 
 ### Career
 
