@@ -419,6 +419,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [YAML sucks](https://www.reddit.com/r/programming/comments/7ctwi7/yaml_sucks/)
 
+[How Microsoft Lost the API War](https://www.reddit.com/r/programming/comments/nxf53l/how_microsoft_lost_the_api_war/)
+
 ### Terminal
 
 [An Opinionated Guide to xargs](https://www.reddit.com/r/programming/comments/p94h01/an_opinionated_guide_to_xargs/)
