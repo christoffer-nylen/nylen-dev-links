@@ -337,6 +337,8 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [Write Libraries, Not Frameworks](https://www.reddit.com/r/programming/comments/ggclep/write_libraries_not_frameworks/)
 
+[Reflections on 10,000 Hours of Programming](https://www.reddit.com/r/programming/comments/owii4b/reflections_on_10000_hours_of_programming/)
+
 ### Embedded
 
 [D as a Better C](https://www.reddit.com/r/programming/comments/6viswu/d_as_a_better_c/) - Rating 8/10
@@ -457,6 +459,10 @@ There are many kinds of code coverage criteria. The link explains many of them i
 
 [How to take great engineers & make them great technical leaders](https://www.youtube.com/watch?v=RtMmxqkPVug&feature=youtu.be)
 
+[What I learned from Software Engineering at Google](https://www.reddit.com/r/programming/comments/om5afz/what_i_learned_from_software_engineering_at_google/)
+
+[How to estimate time for a project/task accurately](https://www.reddit.com/r/programming/comments/oiq0jp/how_to_estimate_time_for_a_projecttask_accurately/)
+
 #### MVP
 
 [The Biggest Mistake I See Engineers Make - Zach Lloyd](https://thezbook.com/the-biggest-mistake-i-see-engineers-make)
@@ -498,6 +504,10 @@ There are many kinds of code coverage criteria. The link explains many of them i
 [The eight levels of programmers](https://www.reddit.com/r/java/comments/12kcid/the_eight_levels_of_programmers/)
 
 [What new software development managers should know](https://www.reddit.com/r/programming/comments/5n3a3y/what_new_software_development_managers_should_know/)
+
+[What happens to a programmer's career as he gets older? What are your stories or advice about the programming career around 45-50? Any advice on how to plan your career until then? Any differences between US and UE on this matter?](https://www.reddit.com/r/programming/comments/nytzaz/what_happens_to_a_programmers_career_as_he_gets/)
+
+[10 Admirable Attributes of a Great Technical Lead](https://www.reddit.com/r/programming/comments/nxxw0a/10_admirable_attributes_of_a_great_technical_lead/)
 
 ### Teaching & Learning
 
